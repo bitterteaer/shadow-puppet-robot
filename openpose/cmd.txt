@@ -1,0 +1,1 @@
+python main.py --model pose.caffemodel --proto pose.prototxt --dataset MPI --input test01.mp4
